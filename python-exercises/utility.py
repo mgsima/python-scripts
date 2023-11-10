@@ -1,0 +1,2 @@
+def holi():
+    print("holi!")
